@@ -29,22 +29,6 @@ tp1/
 
 ## Running the Services
 
-### Using Node.js
-
-To run the catalog service:
-```bash
-cd catalog-service
-npm install
-node server.js
-```
-
-To run the order service:
-```bash
-cd order-service
-npm install
-node server.js
-```
-
 ### Using Docker Compose
 
 To run both services using Docker Compose:
